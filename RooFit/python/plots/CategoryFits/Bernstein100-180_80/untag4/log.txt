@@ -1,0 +1,61 @@
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/Bernstein100-180_80/untag4.pdf has been created
+ructing test statistic for sub-range named fit
+[#1] INFO:Eval -- RooRealVar::setRange(llphoton_m) new range named 'NormalizationRangeForfit' created with bounds [100,180]
+[#1] INFO:Eval -- RooRealVar::setRange(llphoton_m) new range named 'fit_nll_bernstein_untag4' created with bounds [100,180]
+[#1] INFO:Fitting -- RooAbsOptTestStatistic::ctor(nll_bernstein_untag4) fixing interpretation of coefficients of any RooAddPdf to full domain of observables 
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: activating const optimization
+Minuit2Minimizer: Minimize with max-calls 3500 convergence for edm < 1 strategy 1
+MnSeedGenerator: for initial parameters FCN = 507839.1646606
+MnSeedGenerator: Initial state:   - FCN =   507839.1646606 Edm =       377360 NCalls =     43
+VariableMetric: start iterating until Edm is < 0.001
+VariableMetric: Initial state   - FCN =   507839.1646606 Edm =       377360 NCalls =     43
+VariableMetric: Iteration #   0 - FCN =   507839.1646606 Edm =       377360 NCalls =     43
+VariableMetric: Iteration #   1 - FCN =   485266.9462488 Edm =      3785.59 NCalls =     70
+VariableMetric: Iteration #   2 - FCN =   473093.8131413 Edm =      92.0635 NCalls =    100
+VariableMetric: Iteration #   3 - FCN =   472545.4367044 Edm =      314.096 NCalls =    124
+VariableMetric: Iteration #   4 - FCN =   472091.9469288 Edm =      163.113 NCalls =    144
+VariableMetric: Iteration #   5 - FCN =   470822.0224146 Edm =      151.417 NCalls =    167
+VariableMetric: Iteration #   6 - FCN =   470697.3245561 Edm =      1.08779 NCalls =    183
+VariableMetric: Iteration #   7 - FCN =   470694.9669923 Edm =     0.391126 NCalls =    199
+VariableMetric: Iteration #   8 - FCN =   470691.8844267 Edm =     0.763211 NCalls =    216
+VariableMetric: Iteration #   9 - FCN =   470690.2962177 Edm =     0.433094 NCalls =    232
+VariableMetric: Iteration #  10 - FCN =   470687.4316838 Edm =    0.0975771 NCalls =    249
+VariableMetric: Iteration #  11 - FCN =   470687.1000546 Edm =     0.180132 NCalls =    266
+VariableMetric: Iteration #  12 - FCN =   470681.0420608 Edm =      4.28098 NCalls =    285
+VariableMetric: Iteration #  13 - FCN =   470671.1841136 Edm =      10.8014 NCalls =    306
+VariableMetric: Iteration #  14 - FCN =   470662.1210047 Edm =      2.34545 NCalls =    324
+VariableMetric: Iteration #  15 - FCN =   470659.0687647 Edm =      2.53313 NCalls =    341
+VariableMetric: Iteration #  16 - FCN =   470657.0083766 Edm =      1.03017 NCalls =    358
+VariableMetric: Iteration #  17 - FCN =   470655.3527049 Edm =     0.387824 NCalls =    375
+VariableMetric: Iteration #  18 - FCN =   470654.9870681 Edm =     0.213501 NCalls =    391
+VariableMetric: Iteration #  19 - FCN =   470654.6804296 Edm =    0.0669831 NCalls =    408
+VariableMetric: Iteration #  20 - FCN =   470654.4596525 Edm =      0.12049 NCalls =    425
+VariableMetric: Iteration #  21 - FCN =   470653.2702303 Edm =     0.773072 NCalls =    445
+VariableMetric: Iteration #  22 - FCN =   470649.0820182 Edm =      2.84724 NCalls =    461
+VariableMetric: Iteration #  23 - FCN =   470648.4685889 Edm =     0.273121 NCalls =    479
+VariableMetric: Iteration #  24 - FCN =   470648.2272156 Edm =    0.0235648 NCalls =    495
+VariableMetric: Iteration #  25 - FCN =   470648.2060737 Edm =   0.00746614 NCalls =    510
+VariableMetric: Iteration #  26 - FCN =   470648.1896722 Edm =  0.000334317 NCalls =    527
+VariableMetric: After Hessian   - FCN =   470648.1896722 Edm =  0.000414017 NCalls =    589
+VariableMetric: Iteration #  27 - FCN =   470648.1896722 Edm =  0.000414017 NCalls =    589
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 470648.18967221881
+Edm   = 0.000414017363360783604
+Nfcn  = 589
+bernstein_p0_sqrt	  = 0.0020479	 +/-  0.490124	(limited)
+bernstein_p1_sqrt	  = 78.2995	 +/-  7.01107	(limited)
+bernstein_p2_sqrt	  = 20.4188	 +/-  2.22345	(limited)
+bernstein_p3_sqrt	  = 0.0334782	 +/-  2.78012	(limited)
+bernstein_p4_sqrt	  = 26.996	 +/-  2.44647	(limited)
+bernstein_p5_sqrt	  = 15.4225	 +/-  1.68711	(limited)
+bernstein_p6_sqrt	  = 11.1979	 +/-  1.04185	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(bernstein) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag4) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(bernstein) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(bernstein) only plotting range 'fit_nll_bernstein_untag4'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(bernstein) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_bernstein_untag4'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(bernstein_Int[llphoton_m|fit_nll_bernstein_untag4]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

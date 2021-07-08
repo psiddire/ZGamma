@@ -1,0 +1,5 @@
+alpha	0.373
+mean	0.445
+n	1.738
+sigma	0.108
+bwgamma	2.481

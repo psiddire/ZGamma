@@ -1,0 +1,87 @@
+Info in <Minuit2>: DavidonErrorUpdator: delgam < 0 : first derivatives increasing along search line
+Info in <Minuit2>: VariableMetricBuilder: matrix not pos.def, gdel > 0
+Info in <Minuit2>: gdel = 1574.43
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 2
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 3
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 4
+Info in <Minuit2>: added to diagonal of Error matrix a value : dg = 0.500353
+Info in <Minuit2>: gdel = -6.10772e+07
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 1143.24
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 13.9911
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 1283.19
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 1.68247
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus11100-180_80/untag3.pdf has been created
+on #   3 - FCN =   263509.8774055 Edm =      6.44548 NCalls =     74
+VariableMetric: Iteration #   4 - FCN =   263477.1253628 Edm =       17.155 NCalls =     86
+VariableMetric: Iteration #   5 - FCN =   263296.1795179 Edm =      32.0164 NCalls =    100
+VariableMetric: Iteration #   6 - FCN =   263264.4402705 Edm =      7.36796 NCalls =    111
+VariableMetric: Iteration #   7 - FCN =   263178.6814519 Edm =      364.753 NCalls =    132
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (306982) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=3.37421, #nu_{L}=4.94589, #sigma_{0}=12.0489, #sigma_{1}=0.117429, m_{0}=105.01
+ModGaus11::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=138.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=139.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=140.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=141.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=142.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=143.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=144.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=145.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=146.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=147.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=148.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=149.5, m0=m_{0}=105.01 +/- 1, v0=#nu_{L}=4.94589 +/- 0.1, v1=#Delta#nu=3.37421 +/- 0.1, s0=#sigma_{0}=12.0489 +/- 1, s1=#sigma_{1}=0.117429 +/- 1
+    ... (remaining 32 messages suppressed)
+RooNLLVar::nll_background_untag3[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 3.37421 +/- 0.1,#nu_{L} = 4.94589 +/- 0.1,#sigma_{0} = 12.0489 +/- 1,#sigma_{1} = 0.117429 +/- 1,m_{0} = 105.01 +/- 1)
+
+VariableMetric: Iteration #   8 - FCN =   263178.6814519 Edm =      364.753 NCalls =    143
+VariableMetric: After Hessian   - FCN =   263178.6814519 Edm =      1283.19 NCalls =    178
+VariableMetric: Iteration #   9 - FCN =   263178.6814519 Edm =      1283.19 NCalls =    178
+VariableMetric: Iteration #  10 - FCN =   263005.1051557 Edm =      25.3522 NCalls =    192
+VariableMetric: Iteration #  11 - FCN =   262994.4384309 Edm =      3.68711 NCalls =    206
+VariableMetric: Iteration #  12 - FCN =   262963.0891172 Edm =     0.528401 NCalls =    219
+VariableMetric: Iteration #  13 - FCN =   262956.8213393 Edm =      1.26254 NCalls =    232
+VariableMetric: Iteration #  14 - FCN =   262955.0354122 Edm =    0.0240904 NCalls =    244
+VariableMetric: Iteration #  15 - FCN =    262954.794574 Edm =     0.184161 NCalls =    257
+VariableMetric: Iteration #  16 - FCN =   262904.1609516 Edm =      46.1507 NCalls =    273
+VariableMetric: Iteration #  17 - FCN =   262748.8163719 Edm =      19.7085 NCalls =    287
+VariableMetric: Iteration #  18 - FCN =   262733.9965049 Edm =      4.10473 NCalls =    299
+VariableMetric: Iteration #  19 - FCN =    262728.349362 Edm =      1.01946 NCalls =    315
+VariableMetric: Iteration #  20 - FCN =   262726.4340439 Edm =      0.49106 NCalls =    332
+VariableMetric: Iteration #  21 - FCN =   262726.0268567 Edm =    0.0315826 NCalls =    344
+VariableMetric: Iteration #  22 - FCN =     262725.99176 Edm =   0.00173094 NCalls =    356
+VariableMetric: Iteration #  23 - FCN =   262725.9898517 Edm =  1.43596e-05 NCalls =    368
+VariableMetric: After Hessian   - FCN =   262725.9898517 Edm =      1.68247 NCalls =    403
+VariableMetric: Iteration #  24 - FCN =   262725.9898517 Edm =      1.68247 NCalls =    403
+VariableMetric: Iteration #  25 - FCN =   262724.3305512 Edm =   0.00724882 NCalls =    416
+VariableMetric: Iteration #  26 - FCN =   262724.3230317 Edm =  5.24612e-05 NCalls =    428
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 262724.323031720705
+Edm   = 5.24612341861657646e-05
+Nfcn  = 428
+#Delta#nu	  = 0.397362	 +/-  0.0723669	(limited)
+#nu_{L}	  = 1.88168	 +/-  0.0440077	(limited)
+#sigma_{0}	  = 6.90267	 +/-  0.130634	(limited)
+#sigma_{1}	  = 32.344	 +/-  0.481256	(limited)
+m_{0}	  = 112.847	 +/-  0.0935005	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag3) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag3'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag3'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag3]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

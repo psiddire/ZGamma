@@ -1,0 +1,84 @@
+Info in <Minuit2>: DavidonErrorUpdator: delgam < 0 : first derivatives increasing along search line
+Info in <Minuit2>: VariableMetricBuilder: matrix not pos.def. : edm is < 0. Make pos def...
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 0
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 1
+Info in <Minuit2>: added to diagonal of Error matrix a value : dg = 0.500206
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 0.205978
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 36.2134
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Edm has been re-computed after Hesse
+Info in <Minuit2>: new value is now smaller than the required tolerance, : edm = 0.000942275
+Info in <Minuit2>: Minuit2Minimizer::Minimize : Covar was made pos def
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 471.284
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is full but made positive defined
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Covariance_p0-p1.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Covariance_p0-p2.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Covariance_p0-p3.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Covariance_p1-p2.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Covariance_p1-p3.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Covariance_p2-p3.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/Correlation.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/NLL-scan-for-0.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/NLL-scan-for-1.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/NLL-scan-for-2.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/dijet1/NLL-scan-for-3.pdf has been created
+   0.0120487 NCalls =    241
+VariableMetric: Iteration #  17 - FCN =   2744.304493777 Edm =    0.0102398 NCalls =    252
+VariableMetric: Iteration #  18 - FCN =   2744.301639798 Edm =     0.428993 NCalls =    276
+VariableMetric: Iteration #  19 - FCN =   2744.300792345 Edm =      5.31019 NCalls =    304
+VariableMetric: Iteration #  20 - FCN =   2744.299854176 Edm =  0.000834259 NCalls =    321
+VariableMetric: Iteration #  21 - FCN =   2744.299567532 Edm =      4.30276 NCalls =    331
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (6572.07) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=3.36693, #nu_{L}=3.7982, #sigma_{0}=12.5904, m_{0}=144.257
+ModGaus10::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=176.5, m0=m_{0}=144.257 +/- 1, v0=#nu_{L}=3.7982 +/- 0.1, v1=#Delta#nu=3.36693 +/- 0.1, s0=#sigma_{0}=12.5904 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=177.5, m0=m_{0}=144.257 +/- 1, v0=#nu_{L}=3.7982 +/- 0.1, v1=#Delta#nu=3.36693 +/- 0.1, s0=#sigma_{0}=12.5904 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=178.5, m0=m_{0}=144.257 +/- 1, v0=#nu_{L}=3.7982 +/- 0.1, v1=#Delta#nu=3.36693 +/- 0.1, s0=#sigma_{0}=12.5904 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=179.5, m0=m_{0}=144.257 +/- 1, v0=#nu_{L}=3.7982 +/- 0.1, v1=#Delta#nu=3.36693 +/- 0.1, s0=#sigma_{0}=12.5904 +/- 1
+RooNLLVar::nll_background_dijet1[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 3.36693 +/- 0.1,#nu_{L} = 3.7982 +/- 0.1,#sigma_{0} = 12.5904 +/- 1,m_{0} = 144.257 +/- 1)
+
+VariableMetric: Iteration #  22 - FCN =   2744.294242844 Edm =      7.79265 NCalls =    351
+VariableMetric: Iteration #  23 - FCN =    2744.29324376 Edm =      12.2029 NCalls =    375
+VariableMetric: Iteration #  24 - FCN =   2744.293146074 Edm =      1.44869 NCalls =    397
+VariableMetric: Iteration #  25 - FCN =   2744.293087805 Edm =   0.00351434 NCalls =    417
+VariableMetric: Iteration #  26 - FCN =   2744.293087805 Edm =   0.00351434 NCalls =    428
+VariableMetric: After Hessian   - FCN =   2744.293087805 Edm =  0.000942275 NCalls =    453
+VariableMetric: Iteration #  27 - FCN =   2744.293087805 Edm =  0.000942275 NCalls =    453
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = 2744.29308780480824
+Edm   = 0.000942275448466016832
+Nfcn  = 453
+#Delta#nu	  = -2.03429	 +/-  0.405718	(limited)
+#nu_{L}	  = 2.69179	 +/-  0.333337	(limited)
+#sigma_{0}	  = 22.5868	 +/-  0.208514	(limited)
+m_{0}	  = 122.213	 +/-  0.0402064	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(dijet1) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_dijet1'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_dijet1'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_dijet1]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

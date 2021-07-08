@@ -1,0 +1,192 @@
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 1.69649
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 0.00265733
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 68.9869
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: FunctionMinimum is invalid after second try
+Info in <Minuit2>: CombinedMinimumBuilder: migrad method fails, will try with simplex method first.
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 0.00257518
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 0.0134355
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: FunctionMinimum is invalid after second try
+Info in <Minuit2>: CombinedMinimumBuilder: both migrad and method fails also at 2nd attempt.
+Info in <Minuit2>: CombinedMinimumBuilder: return simplex Minimum.
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2.pdf has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Covariance_p0-p1.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Covariance_p0-p2.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Covariance_p0-p3.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Covariance_p1-p2.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Covariance_p1-p3.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Covariance_p2-p3.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/Correlation.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/NLL-scan-for-0.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/NLL-scan-for-1.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/NLL-scan-for-2.pdf has been created
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus10100-180_80/untag2/NLL-scan-for-3.pdf has been created
+leMetric: Iteration #  20 - FCN =   39266.27268868 Edm =      7.02871 NCalls =    335
+VariableMetric: Iteration #  21 - FCN =   39266.27268868 Edm =      7.02871 NCalls =    346
+Simplex: Iteration #   0 - FCN =   73785.08063185 Edm =      3142.74 NCalls =    350
+Simplex: Iteration #   1 - FCN =   73785.08063185 Edm =      2890.17 NCalls =    351
+Simplex: Iteration #   2 - FCN =   63596.08779031 Edm =      12224.8 NCalls =    354
+Simplex: Iteration #   3 - FCN =   63596.08779031 Edm =      11745.5 NCalls =    355
+Simplex: Iteration #   4 - FCN =   63596.08779031 Edm =      10316.5 NCalls =    356
+Simplex: Iteration #   5 - FCN =   48208.47485456 Edm =      25576.6 NCalls =    359
+Simplex: Iteration #   6 - FCN =   48208.47485456 Edm =        19081 NCalls =    360
+Simplex: Iteration #   7 - FCN =   44113.29446127 Edm =      20199.6 NCalls =    362
+Simplex: Iteration #   8 - FCN =   40886.77309494 Edm =      22709.3 NCalls =    364
+Simplex: Iteration #   9 - FCN =   39838.36770523 Edm =      10785.6 NCalls =    366
+Simplex: Iteration #  10 - FCN =   39752.51929032 Edm =      8455.96 NCalls =    368
+Simplex: Iteration #  11 - FCN =   39752.51929032 Edm =      4360.78 NCalls =    369
+Simplex: Iteration #  12 - FCN =   39752.51929032 Edm =      1134.25 NCalls =    370
+Simplex: Iteration #  13 - FCN =   39752.51929032 Edm =      984.502 NCalls =    372
+Simplex: Iteration #  14 - FCN =   39752.51929032 Edm =      528.004 NCalls =    374
+Simplex: Iteration #  15 - FCN =   39752.51929032 Edm =      449.236 NCalls =    375
+Simplex: Iteration #  16 - FCN =   39752.51929032 Edm =       180.14 NCalls =    377
+Simplex: Iteration #  17 - FCN =   39752.51929032 Edm =      155.063 NCalls =    379
+Simplex: Iteration #  18 - FCN =   39752.51929032 Edm =      85.8484 NCalls =    381
+Simplex: Iteration #  19 - FCN =   39752.51929032 Edm =      58.2876 NCalls =    383
+Simplex: Iteration #  20 - FCN =    39595.7781617 Edm =      191.934 NCalls =    386
+Simplex: Iteration #  21 - FCN =    39595.7781617 Edm =      186.472 NCalls =    387
+Simplex: Iteration #  22 - FCN =   39401.28762633 Edm =      374.863 NCalls =    390
+Simplex: Iteration #  23 - FCN =   39401.28762633 Edm =      351.232 NCalls =    391
+Simplex: Iteration #  24 - FCN =   39401.28762633 Edm =      301.232 NCalls =    392
+Simplex: Iteration #  25 - FCN =   39401.28762633 Edm =      194.491 NCalls =    393
+Simplex: Iteration #  26 - FCN =   39401.28762633 Edm =      155.489 NCalls =    394
+Simplex: Iteration #  27 - FCN =   39401.28762633 Edm =      113.021 NCalls =    395
+Simplex: Iteration #  28 - FCN =   39385.44179709 Edm =      83.9285 NCalls =    397
+Simplex: Iteration #  29 - FCN =   39370.18735063 Edm =      65.4048 NCalls =    399
+Simplex: Iteration #  30 - FCN =   39370.18735063 Edm =      39.0006 NCalls =    400
+Simplex: Iteration #  31 - FCN =   39370.18735063 Edm =      31.1003 NCalls =    402
+Simplex: Iteration #  32 - FCN =   39369.06184535 Edm =        16.38 NCalls =    404
+Simplex: Iteration #  33 - FCN =   39369.06184535 Edm =      15.3067 NCalls =    406
+Simplex: Iteration #  34 - FCN =   39367.94443149 Edm =      9.52017 NCalls =    408
+Simplex: Iteration #  35 - FCN =   39367.94443149 Edm =      3.21466 NCalls =    410
+Simplex: Iteration #  36 - FCN =   39366.64356999 Edm =      3.54378 NCalls =    412
+Simplex: Iteration #  37 - FCN =   39365.99181875 Edm =      3.07003 NCalls =    414
+Simplex: Iteration #  38 - FCN =   39365.45273104 Edm =      3.00586 NCalls =    416
+Simplex: Iteration #  39 - FCN =   39365.45273104 Edm =       2.4917 NCalls =    418
+Simplex: Iteration #  40 - FCN =   39365.45273104 Edm =      1.19084 NCalls =    420
+Simplex: Iteration #  41 - FCN =   39365.45273104 Edm =     0.583719 NCalls =    421
+Simplex: Iteration #  42 - FCN =    39365.1829232 Edm =     0.808896 NCalls =    423
+Simplex: Iteration #  43 - FCN =   39364.70334233 Edm =     0.916865 NCalls =    425
+Simplex: Iteration #  44 - FCN =   39364.70334233 Edm =     0.883464 NCalls =    427
+Simplex: Iteration #  45 - FCN =   39364.70334233 Edm =     0.749389 NCalls =    429
+Simplex: Iteration #  46 - FCN =   39364.70334233 Edm =     0.479581 NCalls =    430
+Simplex: Iteration #  47 - FCN =   39360.23028708 Edm =      4.64202 NCalls =    433
+Simplex: Iteration #  48 - FCN =   39360.23028708 Edm =      4.52478 NCalls =    434
+Simplex: Iteration #  49 - FCN =   39360.23028708 Edm =      4.51092 NCalls =    435
+Simplex: Iteration #  50 - FCN =   39360.23028708 Edm =      4.47306 NCalls =    436
+Simplex: Iteration #  51 - FCN =   39347.98750086 Edm =      13.7678 NCalls =    439
+Simplex: Iteration #  52 - FCN =   39347.98750086 Edm =      12.6111 NCalls =    440
+Simplex: Iteration #  53 - FCN =   39347.98750086 Edm =      12.3527 NCalls =    441
+Simplex: Iteration #  54 - FCN =   39347.98750086 Edm =      12.2428 NCalls =    442
+Simplex: Iteration #  55 - FCN =   39347.98750086 Edm =      11.1986 NCalls =    444
+Simplex: Iteration #  56 - FCN =   39347.98750086 Edm =      5.48871 NCalls =    446
+Simplex: Iteration #  57 - FCN =   39344.44991218 Edm =      8.87718 NCalls =    449
+Simplex: Iteration #  58 - FCN =   39342.73302513 Edm =      8.56275 NCalls =    451
+Simplex: Iteration #  59 - FCN =   39342.73302513 Edm =      7.72418 NCalls =    453
+Simplex: Iteration #  60 - FCN =   39340.22535327 Edm =      7.76215 NCalls =    455
+Simplex: Iteration #  61 - FCN =   39340.04793123 Edm =      6.30691 NCalls =    457
+Simplex: Iteration #  62 - FCN =   39340.04793123 Edm =      4.40198 NCalls =    459
+Simplex: Iteration #  63 - FCN =   39338.60191722 Edm =      4.13111 NCalls =    461
+Simplex: Iteration #  64 - FCN =   39338.60191722 Edm =      1.62344 NCalls =    462
+Simplex: Iteration #  65 - FCN =   39337.49948117 Edm =      2.71324 NCalls =    464
+Simplex: Iteration #  66 - FCN =   39335.62018957 Edm =      4.42774 NCalls =    466
+Simplex: Iteration #  67 - FCN =    39332.1511926 Edm =       7.1315 NCalls =    468
+Simplex: Iteration #  68 - FCN =    39332.1511926 Edm =      6.45072 NCalls =    470
+Simplex: Iteration #  69 - FCN =   39327.88443121 Edm =      9.61505 NCalls =    472
+Simplex: Iteration #  70 - FCN =   39327.88443121 Edm =      7.73576 NCalls =    473
+Simplex: Iteration #  71 - FCN =    39326.2784283 Edm =      8.49307 NCalls =    475
+Simplex: Iteration #  72 - FCN =    39326.2784283 Edm =      7.96235 NCalls =    476
+Simplex: Iteration #  73 - FCN =    39326.2784283 Edm =      7.09069 NCalls =    478
+Simplex: Iteration #  74 - FCN =    39326.2784283 Edm =      5.87276 NCalls =    480
+Simplex: Iteration #  75 - FCN =   39326.18831955 Edm =      3.15427 NCalls =    482
+Simplex: Iteration #  76 - FCN =   39326.18831955 Edm =      2.46459 NCalls =    483
+Simplex: Iteration #  77 - FCN =   39326.18831955 Edm =      1.69611 NCalls =    485
+Simplex: Iteration #  78 - FCN =   39326.01697755 Edm =     0.593371 NCalls =    487
+Simplex: Iteration #  79 - FCN =     39325.663096 Edm =     0.644442 NCalls =    489
+Simplex: Iteration #  80 - FCN =     39325.663096 Edm =     0.615332 NCalls =    490
+Simplex: Iteration #  81 - FCN =     39325.663096 Edm =     0.525224 NCalls =    491
+Simplex: Iteration #  82 - FCN =     39325.663096 Edm =     0.476338 NCalls =    492
+Simplex: Final iteration - FCN =    39325.5470797 Edm =     0.357174 NCalls =    495
+MnSeedGenerator: for initial parameters FCN = 39325.5470797
+MnSeedGenerator: Initial state:   - FCN =    39325.5470797 Edm =     0.542854 NCalls =    512
+MnSeedGenerator: run Hesse - new state:   - FCN =    39325.5470797 Edm =      364.882 NCalls =    535
+VariableMetric: start iterating until Edm is < 0.001
+VariableMetric: Initial state   - FCN =    39325.5470797 Edm =      364.882 NCalls =    535
+VariableMetric: Iteration #   0 - FCN =    39325.5470797 Edm =      364.882 NCalls =    535
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (77989.7) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=4.24594, #nu_{L}=4.80723, #sigma_{0}=7.24721, m_{0}=107.619
+ModGaus10::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=128.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=129.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=130.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=131.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=132.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=133.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=134.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=135.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=136.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=137.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=138.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=139.5, m0=m_{0}=107.619 +/- 1, v0=#nu_{L}=4.80723 +/- 0.1, v1=#Delta#nu=4.24594 +/- 0.1, s0=#sigma_{0}=7.24721 +/- 1
+    ... (remaining 42 messages suppressed)
+RooNLLVar::nll_background_untag2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 4.24594 +/- 0.1,#nu_{L} = 4.80723 +/- 0.1,#sigma_{0} = 7.24721 +/- 1,m_{0} = 107.619 +/- 1)
+
+VariableMetric: Iteration #   1 - FCN =   39292.80742967 Edm =      207.856 NCalls =    545
+VariableMetric: Iteration #   2 - FCN =   39283.43830448 Edm =      28.4529 NCalls =    555
+VariableMetric: Iteration #   3 - FCN =   39268.24164916 Edm =       5.7711 NCalls =    568
+VariableMetric: Iteration #   4 - FCN =   39268.17161742 Edm =       8.5259 NCalls =    585
+VariableMetric: Iteration #   5 - FCN =   39266.59772233 Edm =     0.163754 NCalls =    598
+VariableMetric: Iteration #   6 - FCN =    39266.2691414 Edm =     0.021781 NCalls =    615
+VariableMetric: Iteration #   7 - FCN =    39266.2641878 Edm =   0.00321793 NCalls =    629
+VariableMetric: Iteration #   8 - FCN =   39266.26357931 Edm =   0.00146568 NCalls =    643
+VariableMetric: Iteration #   9 - FCN =   39266.26180351 Edm =  0.000269301 NCalls =    656
+VariableMetric: After Hessian   - FCN =   39266.26180351 Edm =   0.00257518 NCalls =    683
+VariableMetric: Iteration #  10 - FCN =   39266.26180351 Edm =   0.00257518 NCalls =    683
+VariableMetric: Iteration #  11 - FCN =   39266.25717902 Edm =    0.0133167 NCalls =    700
+VariableMetric: Iteration #  12 - FCN =   39266.25717902 Edm =    0.0133167 NCalls =    711
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 39325.5470797000817
+Edm   = 0.357174298653262667
+Nfcn  = 495
+#Delta#nu	  = -1.64076	 +/-  0.0364186	(limited)
+#nu_{L}	  = 2.40134	 +/-  0.00906975	(limited)
+#sigma_{0}	  = 18.9011	 +/-  0.254402	(limited)
+m_{0}	  = 120.495	 +/-  0.188785	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag2) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag2'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag2'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag2]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

@@ -1,0 +1,209 @@
+Info in <Minuit2>: DavidonErrorUpdator: delgam < 0 : first derivatives increasing along search line
+Info in <Minuit2>: VariableMetricBuilder: matrix not pos.def, gdel > 0
+Info in <Minuit2>: gdel = 3116.54
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 0
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 1
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 2
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 3
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 4
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 5
+Info in <Minuit2>: added to diagonal of Error matrix a value : dg = 0.515066
+Info in <Minuit2>: gdel = -97010.5
+Info in <Minuit2>: DavidonErrorUpdator: delgam < 0 : first derivatives increasing along search line
+Info in <Minuit2>: VariableMetricBuilder: matrix not pos.def, gdel > 0
+Info in <Minuit2>: gdel = 2940.92
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.00441997
+Info in <Minuit2>: gdel = -11392.1
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 0.255366
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.663268
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is full but made positive defined
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus21100-180_80/dijet2.pdf has been created
+7772 Edm =     0.818254 NCalls =    121
+VariableMetric: Iteration #   5 - FCN =   10326.51942508 Edm =       1.1015 NCalls =    137
+VariableMetric: Iteration #   6 - FCN =   10287.43319898 Edm =      12.5519 NCalls =    165
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (24181.2) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=-1.87552, #nu_{L}=4.99158, #sigma_{0}=3.06514, #sigma_{1}=11.2936, #sigma_{2}=-10.8798, m_{0}=110.55
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = -1.87552 +/- 0.1,#nu_{L} = 4.99158 +/- 0.1,#sigma_{0} = 3.06514 +/- 1,#sigma_{1} = 11.2936 +/- 1,#sigma_{2} = -10.8798 +/- 1,m_{0} = 110.55 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=118.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=119.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=120.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=121.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=122.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=123.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=124.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=125.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=126.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=127.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=128.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=129.5, m0=m_{0}=110.55 +/- 1, v0=#nu_{L}=4.99158 +/- 0.1, v1=#Delta#nu=-1.87552 +/- 0.1, s0=#sigma_{0}=3.06514 +/- 1, s1=#sigma_{1}=11.2936 +/- 1, s2=#sigma_{2}=-10.8798 +/- 1
+    ... (remaining 26 messages suppressed)
+
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (24181.2) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=-1.66498, #nu_{L}=4.99994, #sigma_{0}=19.1854, #sigma_{1}=38.0861, #sigma_{2}=37.2432, m_{0}=126.233
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = -1.66498 +/- 0.1,#nu_{L} = 4.99994 +/- 0.1,#sigma_{0} = 19.1854 +/- 1,#sigma_{1} = 38.0861 +/- 1,#sigma_{2} = 37.2432 +/- 1,m_{0} = 126.233 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=107.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=108.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=109.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=110.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=111.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=112.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=113.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=114.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=115.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=116.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=136.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=137.5, m0=m_{0}=126.233 +/- 1, v0=#nu_{L}=4.99994 +/- 0.1, v1=#Delta#nu=-1.66498 +/- 0.1, s0=#sigma_{0}=19.1854 +/- 1, s1=#sigma_{1}=38.0861 +/- 1, s2=#sigma_{2}=37.2432 +/- 1
+    ... (remaining 8 messages suppressed)
+
+VariableMetric: Iteration #   7 - FCN =   10268.98946787 Edm =      22123.4 NCalls =    189
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=2.79709, #nu_{L}=1.23167, #sigma_{0}=1.50064, #sigma_{1}=-43.5545, #sigma_{2}=39.2056, m_{0}=116.69
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 2.79709 +/- 0.1,#nu_{L} = 1.23167 +/- 0.1,#sigma_{0} = 1.50064 +/- 1,#sigma_{1} = -43.5545 +/- 1,#sigma_{2} = 39.2056 +/- 1,m_{0} = 116.69 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=176.5, m0=m_{0}=116.69 +/- 1, v0=#nu_{L}=1.23167 +/- 0.1, v1=#Delta#nu=2.79709 +/- 0.1, s0=#sigma_{0}=1.50064 +/- 1, s1=#sigma_{1}=-43.5545 +/- 1, s2=#sigma_{2}=39.2056 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=177.5, m0=m_{0}=116.69 +/- 1, v0=#nu_{L}=1.23167 +/- 0.1, v1=#Delta#nu=2.79709 +/- 0.1, s0=#sigma_{0}=1.50064 +/- 1, s1=#sigma_{1}=-43.5545 +/- 1, s2=#sigma_{2}=39.2056 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=178.5, m0=m_{0}=116.69 +/- 1, v0=#nu_{L}=1.23167 +/- 0.1, v1=#Delta#nu=2.79709 +/- 0.1, s0=#sigma_{0}=1.50064 +/- 1, s1=#sigma_{1}=-43.5545 +/- 1, s2=#sigma_{2}=39.2056 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=179.5, m0=m_{0}=116.69 +/- 1, v0=#nu_{L}=1.23167 +/- 0.1, v1=#Delta#nu=2.79709 +/- 0.1, s0=#sigma_{0}=1.50064 +/- 1, s1=#sigma_{1}=-43.5545 +/- 1, s2=#sigma_{2}=39.2056 +/- 1
+
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=1.8607, #nu_{L}=1.35279, #sigma_{0}=22.0905, #sigma_{1}=11.367, #sigma_{2}=-34.4215, m_{0}=115.421
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 1.8607 +/- 0.1,#nu_{L} = 1.35279 +/- 0.1,#sigma_{0} = 22.0905 +/- 1,#sigma_{1} = 11.367 +/- 1,#sigma_{2} = -34.4215 +/- 1,m_{0} = 115.421 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=176.5, m0=m_{0}=115.421 +/- 1, v0=#nu_{L}=1.35279 +/- 0.1, v1=#Delta#nu=1.8607 +/- 0.1, s0=#sigma_{0}=22.0905 +/- 1, s1=#sigma_{1}=11.367 +/- 1, s2=#sigma_{2}=-34.4215 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=177.5, m0=m_{0}=115.421 +/- 1, v0=#nu_{L}=1.35279 +/- 0.1, v1=#Delta#nu=1.8607 +/- 0.1, s0=#sigma_{0}=22.0905 +/- 1, s1=#sigma_{1}=11.367 +/- 1, s2=#sigma_{2}=-34.4215 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=178.5, m0=m_{0}=115.421 +/- 1, v0=#nu_{L}=1.35279 +/- 0.1, v1=#Delta#nu=1.8607 +/- 0.1, s0=#sigma_{0}=22.0905 +/- 1, s1=#sigma_{1}=11.367 +/- 1, s2=#sigma_{2}=-34.4215 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=179.5, m0=m_{0}=115.421 +/- 1, v0=#nu_{L}=1.35279 +/- 0.1, v1=#Delta#nu=1.8607 +/- 0.1, s0=#sigma_{0}=22.0905 +/- 1, s1=#sigma_{1}=11.367 +/- 1, s2=#sigma_{2}=-34.4215 +/- 1
+
+VariableMetric: Iteration #   8 - FCN =   10264.50830377 Edm =       6736.8 NCalls =    207
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=4.68912, #nu_{L}=1.08005, #sigma_{0}=10.8079, #sigma_{1}=-28.2972, #sigma_{2}=42.942, m_{0}=110.524
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 4.68912 +/- 0.1,#nu_{L} = 1.08005 +/- 0.1,#sigma_{0} = 10.8079 +/- 1,#sigma_{1} = -28.2972 +/- 1,#sigma_{2} = 42.942 +/- 1,m_{0} = 110.524 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=100.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=101.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=102.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=103.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=104.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=105.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=106.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=107.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=108.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=109.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=110.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=111.5, m0=m_{0}=110.524 +/- 1, v0=#nu_{L}=1.08005 +/- 0.1, v1=#Delta#nu=4.68912 +/- 0.1, s0=#sigma_{0}=10.8079 +/- 1, s1=#sigma_{1}=-28.2972 +/- 1, s2=#sigma_{2}=42.942 +/- 1
+    ... (remaining 19 messages suppressed)
+
+VariableMetric: Iteration #   9 - FCN =   10262.84371199 Edm =      15993.5 NCalls =    231
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=-2.14715, #nu_{L}=0.181241, #sigma_{0}=20.1366, #sigma_{1}=-10.9378, #sigma_{2}=-40.1015, m_{0}=112.759
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = -2.14715 +/- 0.1,#nu_{L} = 0.181241 +/- 0.1,#sigma_{0} = 20.1366 +/- 1,#sigma_{1} = -10.9378 +/- 1,#sigma_{2} = -40.1015 +/- 1,m_{0} = 112.759 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=103.5, m0=m_{0}=112.759 +/- 1, v0=#nu_{L}=0.181241 +/- 0.1, v1=#Delta#nu=-2.14715 +/- 0.1, s0=#sigma_{0}=20.1366 +/- 1, s1=#sigma_{1}=-10.9378 +/- 1, s2=#sigma_{2}=-40.1015 +/- 1
+
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=-3.12383, #nu_{L}=3.89, #sigma_{0}=25.0957, #sigma_{1}=-11.1944, #sigma_{2}=-38.895, m_{0}=106.744
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = -3.12383 +/- 0.1,#nu_{L} = 3.89 +/- 0.1,#sigma_{0} = 25.0957 +/- 1,#sigma_{1} = -11.1944 +/- 1,#sigma_{2} = -38.895 +/- 1,m_{0} = 106.744 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=100.5, m0=m_{0}=106.744 +/- 1, v0=#nu_{L}=3.89 +/- 0.1, v1=#Delta#nu=-3.12383 +/- 0.1, s0=#sigma_{0}=25.0957 +/- 1, s1=#sigma_{1}=-11.1944 +/- 1, s2=#sigma_{2}=-38.895 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=101.5, m0=m_{0}=106.744 +/- 1, v0=#nu_{L}=3.89 +/- 0.1, v1=#Delta#nu=-3.12383 +/- 0.1, s0=#sigma_{0}=25.0957 +/- 1, s1=#sigma_{1}=-11.1944 +/- 1, s2=#sigma_{2}=-38.895 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=171.5, m0=m_{0}=106.744 +/- 1, v0=#nu_{L}=3.89 +/- 0.1, v1=#Delta#nu=-3.12383 +/- 0.1, s0=#sigma_{0}=25.0957 +/- 1, s1=#sigma_{1}=-11.1944 +/- 1, s2=#sigma_{2}=-38.895 +/- 1
+
+VariableMetric: Iteration #  10 - FCN =   10261.58716995 Edm =      2754.74 NCalls =    254
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=0.364458, #nu_{L}=4.8559, #sigma_{0}=6.96877, #sigma_{1}=-21.886, #sigma_{2}=31.2505, m_{0}=129.666
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 0.364458 +/- 0.1,#nu_{L} = 4.8559 +/- 0.1,#sigma_{0} = 6.96877 +/- 1,#sigma_{1} = -21.886 +/- 1,#sigma_{2} = 31.2505 +/- 1,m_{0} = 129.666 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=160.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=161.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=162.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=163.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=164.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=165.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=166.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=167.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=168.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=169.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=170.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=171.5, m0=m_{0}=129.666 +/- 1, v0=#nu_{L}=4.8559 +/- 0.1, v1=#Delta#nu=0.364458 +/- 0.1, s0=#sigma_{0}=6.96877 +/- 1, s1=#sigma_{1}=-21.886 +/- 1, s2=#sigma_{2}=31.2505 +/- 1
+    ... (remaining 9 messages suppressed)
+
+VariableMetric: Iteration #  11 - FCN =   10256.31448536 Edm =      66.5118 NCalls =    270
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=-0.210227, #nu_{L}=1.8062, #sigma_{0}=1.16819, #sigma_{1}=46.905, #sigma_{2}=48.9502, m_{0}=127.073
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = -0.210227 +/- 0.1,#nu_{L} = 1.8062 +/- 0.1,#sigma_{0} = 1.16819 +/- 1,#sigma_{1} = 46.905 +/- 1,#sigma_{2} = 48.9502 +/- 1,m_{0} = 127.073 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=101.5, m0=m_{0}=127.073 +/- 1, v0=#nu_{L}=1.8062 +/- 0.1, v1=#Delta#nu=-0.210227 +/- 0.1, s0=#sigma_{0}=1.16819 +/- 1, s1=#sigma_{1}=46.905 +/- 1, s2=#sigma_{2}=48.9502 +/- 1
+
+VariableMetric: Iteration #  12 - FCN =   10256.02329233 Edm =      35.3429 NCalls =    285
+VariableMetric: Iteration #  13 - FCN =   10252.41597652 Edm =      1.04375 NCalls =    299
+VariableMetric: Iteration #  14 - FCN =   10251.76639002 Edm =     0.536204 NCalls =    313
+VariableMetric: Iteration #  15 - FCN =   10251.25742812 Edm =     0.480837 NCalls =    327
+VariableMetric: Iteration #  16 - FCN =   10248.79003706 Edm =  5.15747e+06 NCalls =    371
+[#0] WARNING:Minization -- RooMinimizerFcn: Minimized function has error status.
+Returning maximum FCN so far (162643) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=-0.774547, #nu_{L}=1.36404, #sigma_{0}=14.1583, #sigma_{1}=-4.0773, #sigma_{2}=-19.3151, m_{0}=114.609
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},#sigma_{2},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = -0.774547 +/- 0.1,#nu_{L} = 1.36404 +/- 0.1,#sigma_{0} = 14.1583 +/- 1,#sigma_{1} = -4.0773 +/- 1,#sigma_{2} = -19.3151 +/- 1,m_{0} = 114.609 +/- 1)
+ModGaus21::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} s2=#sigma_{2} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=100.5, m0=m_{0}=114.609 +/- 1, v0=#nu_{L}=1.36404 +/- 0.1, v1=#Delta#nu=-0.774547 +/- 0.1, s0=#sigma_{0}=14.1583 +/- 1, s1=#sigma_{1}=-4.0773 +/- 1, s2=#sigma_{2}=-19.3151 +/- 1
+
+VariableMetric: Iteration #  17 - FCN =    10248.5302552 Edm =      6.08543 NCalls =    397
+VariableMetric: Iteration #  18 - FCN =   10247.53036591 Edm =     0.257671 NCalls =    422
+VariableMetric: Iteration #  19 - FCN =   10247.18438824 Edm =     0.151191 NCalls =    436
+VariableMetric: Iteration #  20 - FCN =   10246.82793198 Edm =    0.0942842 NCalls =    450
+VariableMetric: Iteration #  21 - FCN =   10246.64210515 Edm =    0.0168504 NCalls =    464
+VariableMetric: Iteration #  22 - FCN =    10246.6168248 Edm =  0.000293651 NCalls =    484
+VariableMetric: After Hessian   - FCN =    10246.6168248 Edm =     0.255366 NCalls =    526
+VariableMetric: Iteration #  23 - FCN =    10246.6168248 Edm =     0.255366 NCalls =    526
+VariableMetric: Iteration #  24 - FCN =   10246.41861524 Edm =      0.04742 NCalls =    542
+VariableMetric: Iteration #  25 - FCN =   10246.35485574 Edm =     0.020607 NCalls =    556
+VariableMetric: Iteration #  26 - FCN =   10246.28149332 Edm =    0.0115493 NCalls =    577
+VariableMetric: Iteration #  27 - FCN =   10246.25329649 Edm =    0.0124946 NCalls =    598
+VariableMetric: Iteration #  28 - FCN =   10246.23172264 Edm =       0.0122 NCalls =    618
+VariableMetric: Iteration #  29 - FCN =   10246.16861437 Edm =   0.00565416 NCalls =    632
+VariableMetric: Iteration #  30 - FCN =   10246.16049945 Edm =  0.000493404 NCalls =    648
+VariableMetric: After Hessian   - FCN =   10246.16049945 Edm =   0.00075808 NCalls =    694
+VariableMetric: Iteration #  31 - FCN =   10246.16049945 Edm =   0.00075808 NCalls =    694
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 10246.1604994473328
+Edm   = 0.000758080371556870184
+Nfcn  = 694
+#Delta#nu	  = -0.871417	 +/-  0.08683	(limited)
+#nu_{L}	  = 1.08873	 +/-  0.0742672	(limited)
+#sigma_{0}	  = 20.3945	 +/-  0.334713	(limited)
+#sigma_{1}	  = -6.4891	 +/-  0.341144	(limited)
+#sigma_{2}	  = -15.0885	 +/-  0.371335	(limited)
+m_{0}	  = 115.947	 +/-  0.583124	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(dijet2) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_dijet2'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_dijet2'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_dijet2]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

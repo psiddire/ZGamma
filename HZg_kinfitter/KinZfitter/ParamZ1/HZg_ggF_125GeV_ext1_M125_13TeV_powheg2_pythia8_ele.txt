@@ -1,0 +1,13 @@
+alphaCB      5.30189e-01
+f1           7.91603e-01
+f2           5.74403e-01
+f3           6.51020e-01
+meanCB       8.71319e+01
+meanGauss1   9.37743e+01
+meanGauss2   9.10445e+01
+meanGauss3   9.06463e+01
+nCB          9.99998e+01
+sigmaCB      5.41560e+00
+sigmaGauss1   6.69235e+00
+sigmaGauss2   9.03736e-01
+sigmaGauss3   2.34845e+00

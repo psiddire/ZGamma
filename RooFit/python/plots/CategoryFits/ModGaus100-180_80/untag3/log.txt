@@ -1,0 +1,82 @@
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 2.10024
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 2.09672
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 2267.75
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 9071.01
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: FunctionMinimum is invalid after second try
+Info in <Minuit2>: CombinedMinimumBuilder: migrad method fails, will try with simplex method first.
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.373805
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 0.381392
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 4.975
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 0.355444
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: DavidonErrorUpdator: delgam < 0 : first derivatives increasing along search line
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 0.171918
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: FunctionMinimum is invalid after second try
+Info in <Minuit2>: CombinedMinimumBuilder: both migrad and method fails also at 2nd attempt.
+Info in <Minuit2>: CombinedMinimumBuilder: return simplex Minimum.
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.00451959
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is full but made positive defined
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus100-180_80/untag3.pdf has been created
+ion #   0 - FCN =   262724.5338882 Edm =     0.115567 NCalls =    250
+VariableMetric: Iteration #   1 - FCN =   262724.4562435 Edm =     0.136855 NCalls =    276
+VariableMetric: Iteration #   2 - FCN =   262724.4562435 Edm =     0.136855 NCalls =    287
+VariableMetric: After Hessian   - FCN =   262724.4562435 Edm =     0.355444 NCalls =    335
+VariableMetric: Iteration #   3 - FCN =   262724.4562435 Edm =     0.355444 NCalls =    335
+VariableMetric: Iteration #   4 - FCN =   262724.4535676 Edm =    0.0129422 NCalls =    358
+VariableMetric: Iteration #   5 - FCN =   262724.4533778 Edm =   0.00710209 NCalls =    386
+VariableMetric: Iteration #   6 - FCN =   262724.4501597 Edm =    0.0053739 NCalls =    412
+VariableMetric: Iteration #   7 - FCN =   262724.4472863 Edm =   0.00397415 NCalls =    439
+VariableMetric: Iteration #   8 - FCN =   262724.4438624 Edm =   0.00497659 NCalls =    466
+VariableMetric: Iteration #   9 - FCN =   262724.4411202 Edm =   0.00550098 NCalls =    493
+VariableMetric: Iteration #  10 - FCN =   262724.4396429 Edm =    0.0063976 NCalls =    520
+VariableMetric: Iteration #  11 - FCN =   262724.4390884 Edm =   0.00930922 NCalls =    547
+VariableMetric: Iteration #  12 - FCN =   262724.4389257 Edm =    0.0161753 NCalls =    575
+VariableMetric: Iteration #  13 - FCN =   262724.4388773 Edm =    0.0283267 NCalls =    604
+VariableMetric: Iteration #  14 - FCN =   262724.4388586 Edm =    0.0459952 NCalls =    634
+VariableMetric: Iteration #  15 - FCN =   262724.4388483 Edm =    0.0688805 NCalls =    665
+VariableMetric: Iteration #  16 - FCN =   262724.4388408 Edm =    0.0965789 NCalls =    696
+VariableMetric: Iteration #  17 - FCN =   262724.4388344 Edm =     0.128687 NCalls =    728
+VariableMetric: Iteration #  18 - FCN =   262724.4388285 Edm =     0.164795 NCalls =    760
+VariableMetric: Iteration #  19 - FCN =   262724.4388229 Edm =      0.20448 NCalls =    792
+VariableMetric: Iteration #  20 - FCN =   262724.4388175 Edm =     0.624607 NCalls =    824
+VariableMetric: Iteration #  21 - FCN =   262724.4353847 Edm =    0.0309101 NCalls =    851
+VariableMetric: Iteration #  22 - FCN =   262724.4353847 Edm =    0.0309101 NCalls =    862
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 262724.533888199134
+Edm   = 0.244134554930496961
+Nfcn  = 171
+#Delta#nu	  = 0.532505	 +/-  0.00281163	(limited)
+#nu_{L}	  = 2.03019	 +/-  0.00191618	(limited)
+#sigma_{0}	  = 11.1623	 +/-  0.0226766	(limited)
+#sigma_{H}	  = 41.6295	 +/-  0.0421609	(limited)
+#sigma_{L}	  = 7.2691	 +/-  0.0171887	(limited)
+m_{0}	  = 112.797	 +/-  0.0191202	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag3) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag3'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag3'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag3]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

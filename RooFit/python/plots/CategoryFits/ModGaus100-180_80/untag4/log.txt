@@ -1,0 +1,39 @@
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus100-180_80/untag4.pdf has been created
+ INFO:Fitting -- RooAbsOptTestStatistic::ctor(nll_background_untag4) constructing test statistic for sub-range named fit
+[#1] INFO:Eval -- RooRealVar::setRange(llphoton_m) new range named 'NormalizationRangeForfit' created with bounds [100,180]
+[#1] INFO:Eval -- RooRealVar::setRange(llphoton_m) new range named 'fit_nll_background_untag4' created with bounds [100,180]
+[#1] INFO:Fitting -- RooAbsOptTestStatistic::ctor(nll_background_untag4) fixing interpretation of coefficients of any RooAddPdf to full domain of observables 
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: activating const optimization
+Minuit2Minimizer: Minimize with max-calls 3000 convergence for edm < 1 strategy 1
+MnSeedGenerator: for initial parameters FCN = 469479.0673264
+MnSeedGenerator: Initial state:   - FCN =   469479.0673264 Edm =     0.729799 NCalls =     31
+VariableMetric: start iterating until Edm is < 0.001
+VariableMetric: Initial state   - FCN =   469479.0673264 Edm =     0.729799 NCalls =     31
+VariableMetric: Iteration #   0 - FCN =   469479.0673264 Edm =     0.729799 NCalls =     31
+VariableMetric: Iteration #   1 - FCN =   469478.7838671 Edm =    0.0375834 NCalls =     45
+VariableMetric: Iteration #   2 - FCN =   469478.7607495 Edm =   0.00565224 NCalls =     59
+VariableMetric: Iteration #   3 - FCN =   469478.7538371 Edm =   0.00167844 NCalls =     73
+VariableMetric: Iteration #   4 - FCN =   469478.7488582 Edm =  1.05179e-05 NCalls =     87
+VariableMetric: After Hessian   - FCN =   469478.7488582 Edm =  0.000187271 NCalls =    135
+VariableMetric: Iteration #   5 - FCN =   469478.7488582 Edm =  0.000187271 NCalls =    135
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 469478.748858194798
+Edm   = 0.000187270534312334002
+Nfcn  = 135
+#Delta#nu	  = 1.31947	 +/-  0.124585	(limited)
+#nu_{L}	  = 1.9318	 +/-  0.0801934	(limited)
+#sigma_{0}	  = 9.61952	 +/-  0.384973	(limited)
+#sigma_{H}	  = 48.0879	 +/-  0.881208	(limited)
+#sigma_{L}	  = 6.605	 +/-  0.207548	(limited)
+m_{0}	  = 112.383	 +/-  0.0760331	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag4) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag4'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag4'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag4]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

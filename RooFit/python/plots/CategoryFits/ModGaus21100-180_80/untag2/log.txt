@@ -1,0 +1,59 @@
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.0071886
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 0.133513
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.00738624
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: Minuit2Minimizer::Minimize : Covar was made pos def
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.00427547
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is full but made positive defined
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus21100-180_80/untag2.pdf has been created
+mize with max-calls 3000 convergence for edm < 1 strategy 1
+MnSeedGenerator: for initial parameters FCN = 75820.86180867
+MnSeedGenerator: Initial state:   - FCN =   75820.86180867 Edm =      68170.5 NCalls =     25
+VariableMetric: start iterating until Edm is < 0.001
+VariableMetric: Initial state   - FCN =   75820.86180867 Edm =      68170.5 NCalls =     25
+VariableMetric: Iteration #   0 - FCN =   75820.86180867 Edm =      68170.5 NCalls =     25
+VariableMetric: Iteration #   1 - FCN =    46191.7844404 Edm =      4693.52 NCalls =     51
+VariableMetric: Iteration #   2 - FCN =   40460.80771867 Edm =      168.023 NCalls =     77
+VariableMetric: Iteration #   3 - FCN =    39514.5110391 Edm =      5.28654 NCalls =    102
+VariableMetric: Iteration #   4 - FCN =   39416.89790038 Edm =      10.4174 NCalls =    126
+VariableMetric: Iteration #   5 - FCN =   39330.94014275 Edm =      15.2531 NCalls =    142
+VariableMetric: Iteration #   6 - FCN =   39235.38763198 Edm =       5.9473 NCalls =    161
+VariableMetric: Iteration #   7 - FCN =   39219.90906419 Edm =      1.26512 NCalls =    176
+VariableMetric: Iteration #   8 - FCN =   39217.41366752 Edm =      1.03418 NCalls =    191
+VariableMetric: Iteration #   9 - FCN =   39213.22247634 Edm =      7.28943 NCalls =    212
+VariableMetric: Iteration #  10 - FCN =   39210.01746171 Edm =       2.9153 NCalls =    231
+VariableMetric: Iteration #  11 - FCN =    39121.7028435 Edm =      3.14876 NCalls =    254
+VariableMetric: Iteration #  12 - FCN =   39117.19842491 Edm =      3.27543 NCalls =    268
+VariableMetric: Iteration #  13 - FCN =   39114.23814036 Edm =    0.0816271 NCalls =    284
+VariableMetric: Iteration #  14 - FCN =   39114.13344657 Edm =   0.00846406 NCalls =    301
+VariableMetric: Iteration #  15 - FCN =   39114.12712015 Edm =   0.00131751 NCalls =    315
+VariableMetric: Iteration #  16 - FCN =   39114.12561425 Edm =  0.000421186 NCalls =    329
+VariableMetric: After Hessian   - FCN =   39114.12561425 Edm =     0.133513 NCalls =    371
+VariableMetric: Iteration #  17 - FCN =   39114.12561425 Edm =     0.133513 NCalls =    371
+VariableMetric: Iteration #  18 - FCN =   39113.97298631 Edm =  0.000176937 NCalls =    387
+VariableMetric: After Hessian   - FCN =   39113.97298631 Edm =  0.000167514 NCalls =    431
+VariableMetric: Iteration #  19 - FCN =   39113.97298631 Edm =  0.000167514 NCalls =    431
+Minuit2Minimizer : Valid minimum - status = 1
+FVAL  = 39113.9729863068351
+Edm   = 0.000167513888472283287
+Nfcn  = 431
+#Delta#nu	  = -0.440382	 +/-  0.10832	(limited)
+#nu_{L}	  = 1.23756	 +/-  0.102354	(limited)
+#sigma_{0}	  = 18.0714	 +/-  1.21709	(limited)
+#sigma_{1}	  = 2.54813	 +/-  2.67901	(limited)
+#sigma_{2}	  = -6.82847	 +/-  1.57751	(limited)
+m_{0}	  = 115.417	 +/-  0.261082	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag2) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag2'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag2'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag2]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

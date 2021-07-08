@@ -1,0 +1,56 @@
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus11100-180_80/untag4.pdf has been created
+tructing test statistic for sub-range named fit
+[#1] INFO:Eval -- RooRealVar::setRange(llphoton_m) new range named 'NormalizationRangeForfit' created with bounds [100,180]
+[#1] INFO:Eval -- RooRealVar::setRange(llphoton_m) new range named 'fit_nll_background_untag4' created with bounds [100,180]
+[#1] INFO:Fitting -- RooAbsOptTestStatistic::ctor(nll_background_untag4) fixing interpretation of coefficients of any RooAddPdf to full domain of observables 
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: activating const optimization
+Minuit2Minimizer: Minimize with max-calls 2500 convergence for edm < 1 strategy 1
+MnSeedGenerator: for initial parameters FCN = 555059.5252971
+MnSeedGenerator: Initial state:   - FCN =   555059.5252971 Edm =       217733 NCalls =     21
+VariableMetric: start iterating until Edm is < 0.001
+VariableMetric: Initial state   - FCN =   555059.5252971 Edm =       217733 NCalls =     21
+VariableMetric: Iteration #   0 - FCN =   555059.5252971 Edm =       217733 NCalls =     21
+VariableMetric: Iteration #   1 - FCN =   477017.4900004 Edm =      1756.98 NCalls =     46
+VariableMetric: Iteration #   2 - FCN =   471532.6554502 Edm =      11.3622 NCalls =     67
+VariableMetric: Iteration #   3 - FCN =   471526.2126214 Edm =      35.2032 NCalls =     81
+VariableMetric: Iteration #   4 - FCN =   471359.7578421 Edm =      34.1203 NCalls =     95
+VariableMetric: Iteration #   5 - FCN =   471121.6921147 Edm =      33.4879 NCalls =    108
+VariableMetric: Iteration #   6 - FCN =   471026.2655728 Edm =      68.9559 NCalls =    120
+VariableMetric: Iteration #   7 - FCN =   470646.4159043 Edm =      54.9475 NCalls =    136
+VariableMetric: Iteration #   8 - FCN =   470588.7173154 Edm =      38.7916 NCalls =    147
+VariableMetric: Iteration #   9 - FCN =   470492.8903468 Edm =      74.6406 NCalls =    159
+VariableMetric: Iteration #  10 - FCN =   470141.9584357 Edm =      136.081 NCalls =    174
+VariableMetric: Iteration #  11 - FCN =   469834.5936328 Edm =      76.6688 NCalls =    187
+VariableMetric: Iteration #  12 - FCN =    469775.844265 Edm =      22.4451 NCalls =    199
+VariableMetric: Iteration #  13 - FCN =   469726.9513916 Edm =      1.17033 NCalls =    212
+VariableMetric: Iteration #  14 - FCN =   469723.9618995 Edm =      1.05355 NCalls =    224
+VariableMetric: Iteration #  15 - FCN =   469710.9374537 Edm =       15.601 NCalls =    238
+VariableMetric: Iteration #  16 - FCN =   469608.2525576 Edm =      63.1237 NCalls =    253
+VariableMetric: Iteration #  17 - FCN =   469491.4273191 Edm =      6.74285 NCalls =    265
+VariableMetric: Iteration #  18 - FCN =   469483.7588739 Edm =      1.39892 NCalls =    277
+VariableMetric: Iteration #  19 - FCN =   469482.3149025 Edm =     0.105198 NCalls =    289
+VariableMetric: Iteration #  20 - FCN =   469482.2545098 Edm =    0.0126469 NCalls =    301
+VariableMetric: Iteration #  21 - FCN =   469482.2421917 Edm =  0.000494743 NCalls =    313
+VariableMetric: After Hessian   - FCN =   469482.2421917 Edm =  0.000696548 NCalls =    350
+VariableMetric: Iteration #  22 - FCN =   469482.2421917 Edm =  0.000696548 NCalls =    350
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 469482.242191720579
+Edm   = 0.000696548437763956987
+Nfcn  = 350
+#Delta#nu	  = 0.901709	 +/-  0.0588729	(limited)
+#nu_{L}	  = 1.62108	 +/-  0.0333675	(limited)
+#sigma_{0}	  = 5.69737	 +/-  0.0962211	(limited)
+#sigma_{1}	  = 37.7511	 +/-  0.312627	(limited)
+m_{0}	  = 112.495	 +/-  0.0546062	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag4) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag4'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag4'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag4]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

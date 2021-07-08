@@ -1,0 +1,80 @@
+Info in <Minuit2>: DavidonErrorUpdator: delgam < 0 : first derivatives increasing along search line
+Info in <Minuit2>: VariableMetricBuilder: matrix not pos.def, gdel > 0
+Info in <Minuit2>: gdel = 37613.1
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 0
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 1
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 2
+Info in <Minuit2>: negative or zero diagonal element in covariance matrix : i = 4
+Info in <Minuit2>: added to diagonal of Error matrix a value : dg = 0.534182
+Info in <Minuit2>: gdel = -527342
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 100.378
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.0220277
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 39.2466
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 1.98367
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus11100-180_80/dijet2.pdf has been created
+ so far (24456.7) to force MIGRAD to back out of this region. Error log follows
+Parameter values: #Delta#nu=4.90091, #nu_{L}=2.98311, #sigma_{0}=5.11363, #sigma_{1}=6.43085, m_{0}=141.141
+RooNLLVar::nll_background_dijet2[ paramSet=(#Delta#nu,#nu_{L},#sigma_{0},#sigma_{1},m_{0}) ]
+     function value is NAN @ paramSet=(#Delta#nu = 4.90091 +/- 0.1,#nu_{L} = 2.98311 +/- 0.1,#sigma_{0} = 5.11363 +/- 1,#sigma_{1} = 6.43085 +/- 1,m_{0} = 141.141 +/- 1)
+ModGaus11::background[ m=llphoton_m m0=m_{0} v0=#nu_{L} v1=#Delta#nu s0=#sigma_{0} s1=#sigma_{1} ]
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=168.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=169.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=170.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=171.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=172.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=173.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=174.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=175.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=176.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=177.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=178.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+     getLogVal() top-level p.d.f evaluates to zero @ m=llphoton_m=179.5, m0=m_{0}=141.141 +/- 1, v0=#nu_{L}=2.98311 +/- 0.1, v1=#Delta#nu=4.90091 +/- 0.1, s0=#sigma_{0}=5.11363 +/- 1, s1=#sigma_{1}=6.43085 +/- 1
+    ... (remaining 2 messages suppressed)
+
+VariableMetric: Iteration #   3 - FCN =   10264.30143164 Edm =      29.4582 NCalls =     75
+VariableMetric: After Hessian   - FCN =   10264.30143164 Edm =      39.2466 NCalls =    108
+VariableMetric: Iteration #   4 - FCN =   10264.30143164 Edm =      39.2466 NCalls =    108
+VariableMetric: Iteration #   5 - FCN =   10256.78439031 Edm =      11.6743 NCalls =    122
+VariableMetric: Iteration #   6 - FCN =   10255.46708244 Edm =     0.514464 NCalls =    134
+VariableMetric: Iteration #   7 - FCN =   10254.83740242 Edm =     0.294958 NCalls =    150
+VariableMetric: Iteration #   8 - FCN =   10254.12614047 Edm =     0.018661 NCalls =    165
+VariableMetric: Iteration #   9 - FCN =   10254.10329298 Edm =   0.00470672 NCalls =    177
+VariableMetric: Iteration #  10 - FCN =   10254.09745596 Edm =    0.0019384 NCalls =    189
+VariableMetric: Iteration #  11 - FCN =   10254.09336839 Edm =  0.000125408 NCalls =    201
+VariableMetric: After Hessian   - FCN =   10254.09336839 Edm =      1.98367 NCalls =    232
+VariableMetric: Iteration #  12 - FCN =   10254.09336839 Edm =      1.98367 NCalls =    232
+VariableMetric: Iteration #  13 - FCN =   10252.18616725 Edm =      0.25053 NCalls =    245
+VariableMetric: Iteration #  14 - FCN =   10251.88132717 Edm =     0.110125 NCalls =    257
+VariableMetric: Iteration #  15 - FCN =   10251.75291479 Edm =    0.0382099 NCalls =    270
+VariableMetric: Iteration #  16 - FCN =    10251.7155635 Edm =    0.0026774 NCalls =    281
+VariableMetric: Iteration #  17 - FCN =   10251.71239051 Edm =  7.23583e-05 NCalls =    293
+VariableMetric: After Hessian   - FCN =   10251.71239051 Edm =  6.25557e-05 NCalls =    326
+VariableMetric: Iteration #  18 - FCN =   10251.71239051 Edm =  6.25557e-05 NCalls =    326
+Minuit2Minimizer : Valid minimum - status = 0
+FVAL  = 10251.7123905067274
+Edm   = 6.25557224430818793e-05
+Nfcn  = 326
+#Delta#nu	  = -0.263717	 +/-  0.574582	(limited)
+#nu_{L}	  = 2.3387	 +/-  0.43879	(limited)
+#sigma_{0}	  = 12.1139	 +/-  1.11323	(limited)
+#sigma_{1}	  = 30.4746	 +/-  3.74135	(limited)
+m_{0}	  = 115.016	 +/-  0.851002	(limited)
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(dijet2) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_dijet2'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_dijet2'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_dijet2]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)

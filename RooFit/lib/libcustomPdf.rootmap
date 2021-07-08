@@ -1,0 +1,12 @@
+[ lib/libcustomPdf.dylib ]
+# List of selected classes
+class GausCB
+class ModGaus
+class ModGaus01
+class ModGaus11
+class ModThreeGaus
+header GausCB.h
+header ModGaus.h
+header ModGaus01.h
+header ModGaus11.h
+header ModThreeGaus.h

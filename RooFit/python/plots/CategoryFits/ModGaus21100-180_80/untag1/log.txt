@@ -1,0 +1,150 @@
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.00809224
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: VariableMetricBuilder: Tolerance is not sufficient, continue the minimization
+Info in <Minuit2>: Current  Edm is : edm = 0.53752
+Info in <Minuit2>: Required Edm is : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: no improvement in line search
+Info in <Minuit2>: VariableMetricBuilder: iterations finish without convergence.
+Info in <Minuit2>: VariableMetricBuilder : edm = 9.5636
+Info in <Minuit2>:             requested : edmval = 0.001
+Info in <Minuit2>: VariableMetricBuilder: FunctionMinimum is invalid after second try
+Info in <Minuit2>: CombinedMinimumBuilder: migrad method fails, will try with simplex method first.
+Info in <Minuit2>: Simplex did not converge, edm > minedm.
+Info in <Minuit2>: CombinedMinimumBuilder: both migrad and simplex method fail.
+Info in <Minuit2>: Minuit2Minimizer::Minimize : Minimization did NOT converge, Edm is above max
+Info in <Minuit2>: matrix forced pos-def by adding to diagonal : padd = 0.0313129
+Info in <Minuit2>: MnHesse: matrix was forced pos. def. 
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is full but made positive defined
+Info in <Minuit2>: Minuit2Minimizer::Hesse : Hesse is valid - matrix is accurate
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: can
+Info in <TCanvas::Print>: pdf file plots/CategoryFits/ModGaus21100-180_80/untag1.pdf has been created
+n #   1 - FCN =   32447.69917314 Edm =      3153.83 NCalls =     51
+VariableMetric: Iteration #   2 - FCN =   27919.35367385 Edm =      188.793 NCalls =     77
+VariableMetric: Iteration #   3 - FCN =   26658.49700989 Edm =       8.8933 NCalls =    102
+VariableMetric: Iteration #   4 - FCN =   26597.53746806 Edm =      1.38191 NCalls =    120
+VariableMetric: Iteration #   5 - FCN =   26579.36484131 Edm =      2.67031 NCalls =    151
+VariableMetric: Iteration #   6 - FCN =   26533.89784857 Edm =      26.7353 NCalls =    174
+VariableMetric: Iteration #   7 - FCN =   26462.42855713 Edm =     0.108555 NCalls =    192
+VariableMetric: Iteration #   8 - FCN =   26461.92573661 Edm =      0.13098 NCalls =    206
+VariableMetric: Iteration #   9 - FCN =   26456.98249679 Edm =      3.83283 NCalls =    222
+VariableMetric: Iteration #  10 - FCN =   26424.23619146 Edm =      5.06272 NCalls =    244
+VariableMetric: Iteration #  11 - FCN =   26415.83267971 Edm =      5.68552 NCalls =    258
+VariableMetric: Iteration #  12 - FCN =   26409.24542751 Edm =      1.74398 NCalls =    271
+VariableMetric: Iteration #  13 - FCN =   26407.64307262 Edm =     0.280458 NCalls =    287
+VariableMetric: Iteration #  14 - FCN =   26407.37305378 Edm =    0.0117941 NCalls =    300
+VariableMetric: Iteration #  15 - FCN =    26407.3478481 Edm =   0.00648728 NCalls =    319
+VariableMetric: Iteration #  16 - FCN =   26407.28133538 Edm =     0.887589 NCalls =    344
+VariableMetric: Iteration #  17 - FCN =   26407.28071155 Edm =   0.00475916 NCalls =    364
+VariableMetric: Iteration #  18 - FCN =   26407.27125467 Edm =   0.00925352 NCalls =    382
+VariableMetric: Iteration #  19 - FCN =   26407.24652775 Edm =     0.035673 NCalls =    400
+VariableMetric: Iteration #  20 - FCN =   26406.95469203 Edm =     0.162477 NCalls =    415
+VariableMetric: Iteration #  21 - FCN =   26406.16747555 Edm =     0.067583 NCalls =    429
+VariableMetric: Iteration #  22 - FCN =   26406.09771441 Edm =    0.0074083 NCalls =    443
+VariableMetric: Iteration #  23 - FCN =   26405.86262061 Edm =      0.16522 NCalls =    459
+VariableMetric: Iteration #  24 - FCN =   26405.54047238 Edm =   0.00733711 NCalls =    477
+VariableMetric: Iteration #  25 - FCN =   26405.53316578 Edm =  4.45893e-05 NCalls =    490
+VariableMetric: After Hessian   - FCN =   26405.53316578 Edm =      0.53752 NCalls =    530
+VariableMetric: Iteration #  26 - FCN =   26405.53316578 Edm =      0.53752 NCalls =    530
+VariableMetric: Iteration #  27 - FCN =   26405.03759581 Edm =      0.15468 NCalls =    545
+VariableMetric: Iteration #  28 - FCN =   26404.94329516 Edm =     0.145128 NCalls =    559
+VariableMetric: Iteration #  29 - FCN =   26404.44903429 Edm =     0.398353 NCalls =    575
+VariableMetric: Iteration #  30 - FCN =   26404.10720367 Edm =      2.89914 NCalls =    604
+VariableMetric: Iteration #  31 - FCN =   26404.10720367 Edm =      2.89914 NCalls =    615
+Simplex: Iteration #   0 - FCN =   59197.93742112 Edm =       2597.1 NCalls =    621
+Simplex: Iteration #   1 - FCN =   52322.65355313 Edm =      9088.72 NCalls =    624
+Simplex: Iteration #   2 - FCN =   52322.65355313 Edm =      8533.46 NCalls =    625
+Simplex: Iteration #   3 - FCN =   52322.65355313 Edm =      8381.86 NCalls =    626
+Simplex: Iteration #   4 - FCN =   52322.65355313 Edm =      8130.66 NCalls =    627
+Simplex: Iteration #   5 - FCN =   52322.65355313 Edm =      7699.15 NCalls =    628
+Simplex: Iteration #   6 - FCN =   36251.31716143 Edm =      22946.6 NCalls =    631
+Simplex: Iteration #   7 - FCN =   36251.31716143 Edm =      20081.3 NCalls =    632
+Simplex: Iteration #   8 - FCN =   36251.31716143 Edm =      19171.6 NCalls =    633
+Simplex: Iteration #   9 - FCN =   36251.31716143 Edm =        17722 NCalls =    634
+Simplex: Iteration #  10 - FCN =   36251.31716143 Edm =      16084.3 NCalls =    635
+Simplex: Iteration #  11 - FCN =   30308.37510784 Edm =      22014.3 NCalls =    637
+Simplex: Iteration #  12 - FCN =   30308.37510784 Edm =      12644.3 NCalls =    638
+Simplex: Iteration #  13 - FCN =   28089.46055158 Edm =      13171.5 NCalls =    640
+Simplex: Iteration #  14 - FCN =   28089.46055158 Edm =      10568.7 NCalls =    641
+Simplex: Iteration #  15 - FCN =   26701.42319661 Edm =      9569.25 NCalls =    643
+Simplex: Iteration #  16 - FCN =   26701.42319661 Edm =      9549.89 NCalls =    644
+Simplex: Iteration #  17 - FCN =   26621.97962756 Edm =      3729.12 NCalls =    646
+Simplex: Iteration #  18 - FCN =   26621.97962756 Edm =       3686.4 NCalls =    647
+Simplex: Iteration #  19 - FCN =   26621.97962756 Edm =      1778.96 NCalls =    648
+Simplex: Iteration #  20 - FCN =   26621.97962756 Edm =      1467.48 NCalls =    649
+Simplex: Iteration #  21 - FCN =   26621.97962756 Edm =      225.489 NCalls =    651
+Simplex: Iteration #  22 - FCN =   26621.97962756 Edm =      215.652 NCalls =    653
+Simplex: Iteration #  23 - FCN =   26621.97962756 Edm =       189.13 NCalls =    654
+Simplex: Iteration #  24 - FCN =   26621.97962756 Edm =       181.45 NCalls =    656
+Simplex: Iteration #  25 - FCN =   26621.97962756 Edm =      107.182 NCalls =    658
+Simplex: Iteration #  26 - FCN =   26621.97962756 Edm =      79.4436 NCalls =    660
+Simplex: Iteration #  27 - FCN =   26621.97962756 Edm =      51.3127 NCalls =    662
+Simplex: Iteration #  28 - FCN =   26621.97962756 Edm =      41.8756 NCalls =    663
+Simplex: Iteration #  29 - FCN =   26621.97962756 Edm =      29.5327 NCalls =    665
+Simplex: Iteration #  30 - FCN =   26621.97962756 Edm =      24.1106 NCalls =    667
+Simplex: Iteration #  31 - FCN =   26621.97962756 Edm =      10.9222 NCalls =    669
+Simplex: Iteration #  32 - FCN =   26621.97962756 Edm =      5.15305 NCalls =    671
+Simplex: Iteration #  33 - FCN =   26621.83655751 Edm =      4.46642 NCalls =    673
+Simplex: Iteration #  34 - FCN =   26620.60879975 Edm =      5.15391 NCalls =    675
+Simplex: Iteration #  35 - FCN =   26620.60879975 Edm =      3.71975 NCalls =    677
+Simplex: Iteration #  36 - FCN =   26620.60879975 Edm =      2.31149 NCalls =    679
+Simplex: Iteration #  37 - FCN =   26620.60879975 Edm =      1.37539 NCalls =    681
+Simplex: Iteration #  38 - FCN =   26620.11031199 Edm =      1.86932 NCalls =    683
+Simplex: Iteration #  39 - FCN =     26609.230513 Edm =       12.606 NCalls =    686
+Simplex: Iteration #  40 - FCN =     26609.230513 Edm =       12.139 NCalls =    687
+Simplex: Iteration #  41 - FCN =     26609.230513 Edm =      11.8264 NCalls =    688
+Simplex: Iteration #  42 - FCN =   26589.74281792 Edm =      30.8768 NCalls =    691
+Simplex: Iteration #  43 - FCN =   26589.74281792 Edm =       30.866 NCalls =    692
+Simplex: Iteration #  44 - FCN =   26574.35438591 Edm =      45.7559 NCalls =    695
+Simplex: Iteration #  45 - FCN =   26569.53497286 Edm =       43.032 NCalls =    697
+Simplex: Iteration #  46 - FCN =   26564.90893603 Edm =      46.0952 NCalls =    699
+Simplex: Iteration #  47 - FCN =   26563.28749302 Edm =       45.943 NCalls =    701
+Simplex: Iteration #  48 - FCN =   26563.28749302 Edm =      29.3896 NCalls =    702
+Simplex: Iteration #  49 - FCN =   26563.28749302 Edm =      26.4553 NCalls =    704
+Simplex: Iteration #  50 - FCN =   26563.28749302 Edm =      19.3323 NCalls =    705
+Simplex: Iteration #  51 - FCN =   26563.28749302 Edm =      14.2322 NCalls =    707
+Simplex: Iteration #  52 - FCN =   26563.28749302 Edm =      11.0669 NCalls =    709
+Simplex: Iteration #  53 - FCN =   26563.04564705 Edm =      6.48933 NCalls =    711
+Simplex: Iteration #  54 - FCN =   26563.04564705 Edm =      5.99006 NCalls =    712
+Simplex: Iteration #  55 - FCN =   26561.62676669 Edm =      4.55645 NCalls =    714
+Simplex: Iteration #  56 - FCN =   26561.62676669 Edm =      4.08216 NCalls =    716
+Simplex: Iteration #  57 - FCN =   26559.97310006 Edm =      4.93584 NCalls =    718
+Simplex: Iteration #  58 - FCN =   26559.97310006 Edm =      4.80186 NCalls =    719
+Simplex: Iteration #  59 - FCN =   26559.97310006 Edm =      3.31439 NCalls =    721
+Simplex: Iteration #  60 - FCN =   26559.97310006 Edm =      3.07255 NCalls =    722
+Simplex: Iteration #  61 - FCN =   26559.94616398 Edm =      2.76812 NCalls =    724
+Simplex: Iteration #  62 - FCN =   26559.94616398 Edm =       2.6781 NCalls =    726
+Simplex: Iteration #  63 - FCN =   26559.94616398 Edm =       1.6806 NCalls =    728
+Simplex: Iteration #  64 - FCN =    26559.1101999 Edm =      2.38499 NCalls =    730
+Simplex: Iteration #  65 - FCN =   26557.76117122 Edm =      3.71418 NCalls =    732
+Simplex: Iteration #  66 - FCN =   26557.76117122 Edm =      2.56792 NCalls =    734
+Simplex: Iteration #  67 - FCN =   26554.28197576 Edm =      5.87331 NCalls =    737
+Simplex: Iteration #  68 - FCN =   26554.28197576 Edm =      5.69112 NCalls =    738
+Simplex: Iteration #  69 - FCN =   26554.28197576 Edm =      5.66419 NCalls =    739
+Simplex: Iteration #  70 - FCN =   26554.28197576 Edm =      4.82822 NCalls =    740
+Simplex: Iteration #  71 - FCN =   26554.28197576 Edm =      4.75186 NCalls =    741
+Simplex: Iteration #  72 - FCN =   26551.72614248 Edm =      6.03503 NCalls =    743
+Simplex: Iteration #  73 - FCN =   26546.36328258 Edm =      10.8472 NCalls =    746
+Simplex: Iteration #  74 - FCN =   26546.36328258 Edm =      10.6293 NCalls =    747
+Simplex: Iteration #  75 - FCN =   26546.36328258 Edm =      8.56729 NCalls =    748
+Simplex: Iteration #  76 - FCN =   26546.27147093 Edm =      8.40182 NCalls =    750
+Simplex: Iteration #  77 - FCN =   26544.99565287 Edm =      9.28632 NCalls =    752
+Simplex: Iteration #  78 - FCN =   26544.66872635 Edm =      7.05742 NCalls =    754
+Simplex: Iteration #  79 - FCN =   26544.66872635 Edm =      5.50399 NCalls =    755
+Simplex: Iteration #  80 - FCN =   26544.66872635 Edm =      4.05245 NCalls =    757
+Simplex: Iteration #  81 - FCN =   26542.73981767 Edm =      3.62346 NCalls =    759
+Simplex: Iteration #  82 - FCN =   26542.73981767 Edm =      3.53165 NCalls =    761
+Simplex: Iteration #  83 - FCN =   26542.67615511 Edm =      2.84131 NCalls =    763
+Simplex: Iteration #  84 - FCN =   26542.67615511 Edm =       2.3195 NCalls =    765
+Simplex: Final iteration - FCN =   26541.90113836 Edm =      2.90087 NCalls =    768
+Minuit2Minimizer : Invalid Minimum - status = 3
+FVAL  = 26541.9
+Edm   = 2.90087
+Nfcn  = 768
+[#1] INFO:Fitting -- RooAbsPdf::fitTo(background) Calculating sum-of-weights-squared correction matrix for covariance matrix
+[#1] INFO:Minization -- RooMinimizer::optimizeConst: deactivating const optimization
+[#1] INFO:InputArguments -- RooAbsData::plotOn(untag1) INFO: dataset has non-integer weights, auto-selecting SumW2 errors instead of Poisson errors
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f was fitted in range and no explicit plot,norm range was specified, using fit range as default
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) only plotting range 'fit_nll_background_untag1'
+[#1] INFO:Plotting -- RooAbsPdf::plotOn(background) p.d.f. curve is normalized using explicit choice of ranges 'fit_nll_background_untag1'
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
+[#1] INFO:NumericIntegration -- RooRealIntegral::init(background_Int[llphoton_m|fit_nll_background_untag1]_Norm[llphoton_m]) using numeric integrator RooIntegrator1D to calculate Int(llphoton_m)
